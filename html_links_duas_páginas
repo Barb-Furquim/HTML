@@ -1,0 +1,27 @@
+Primeira página
+
+<html>
+    <head>
+        <title>Página principal</title>
+    </head>
+    <body>
+        <h1>Sobre minha empresa</h1>
+        <ul>
+            <li>
+                <a href="about.html" title="Clique aqui e confira" target="_self">about</a>
+            </li>
+        </ul>
+    </body>
+</html>
+
+Segunda página
+
+<html>
+    <head>
+        <title>Sobre minha empresa</title>
+    </head>
+    <body>
+        <h1>Sobre meu site</h1>
+        <a href="index.html">< Voltar</a>
+    </body>
+</html>
