@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Meu primeiro HTML</title>
+    </head>
+    <body>
+        <h1>Meu primeiro site</h1>
+        <ul>
+            <li>
+                <a href="http://dio.me" title="Clique aqui e confira" target="_blank">Dio.me</a>
+        </ul>
+    </body>
+</html>
