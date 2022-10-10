@@ -1,2 +1,2 @@
 # HTML
-repository for HTML content
+Repository for HTML content
