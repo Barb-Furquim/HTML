@@ -1,2 +1,2 @@
 # HTML
-Repository for HTML content
+Repository for HTML content. Dio's quick HTML course.
